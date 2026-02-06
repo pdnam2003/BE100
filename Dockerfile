@@ -1,14 +1,18 @@
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-WORKDIR /app
-EXPOSE 8080
-
+# Build stage
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
+
+# copy solution
 COPY . .
+
+# vào đúng thư mục chứa csproj
+WORKDIR /src/BE100
 RUN dotnet restore
 RUN dotnet publish -c Release -o /app/publish
 
-FROM base AS final
+# Runtime stage
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 COPY --from=build /app/publish .
-ENTRYPOINT ["dotnet", "BEProject4.dll"]
+EXPOSE 8080
+ENTRYPOINT ["dotnet", "BE100.dll"]
