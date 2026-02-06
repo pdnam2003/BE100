@@ -1,0 +1,64 @@
+[
+  {
+    "ContainingType": "BE100.Controllers.QuestionController.Allquestion",
+    "Method": "GetAll",
+    "RelativePath": "api/allquestion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE100.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BE100.DTOs.Request.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE100.Controllers.ExamController.ExambyQuestiopnCategoryController",
+    "Method": "GetRandomExam",
+    "RelativePath": "api/exams/random/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE100.Controllers.QuestionController.QuestionDangerusController",
+    "Method": "GetQuestionDangerous",
+    "RelativePath": "api/question/dangerous",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE100.Controllers.ExamController.RandoomQuestion",
+    "Method": "GetQuestions",
+    "RelativePath": "api/randoomexam/randoom-questions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

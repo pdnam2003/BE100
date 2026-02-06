@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\troll\\Desktop\\BE100\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\controllers\\examcontroller\\exambyquestiopncategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\controllers\\examcontroller\\exambyquestiopncategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\controllers\\examcontroller\\randoomquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\controllers\\examcontroller\\randoomquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\controllers\\questioncontroller\\questiondangeruscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\controllers\\questioncontroller\\questiondangeruscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\controllers\\questioncontroller\\allquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\controllers\\questioncontroller\\allquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\controllers\\examcontroller\\examhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\controllers\\examcontroller\\examhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\services\\examservice\\randoomexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\services\\examservice\\randoomexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\dependencyinjection\\databasedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\dependencyinjection\\databasedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\dependencyinjection\\servicedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\dependencyinjection\\servicedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\services\\question\\listquestiondangerous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\services\\question\\listquestiondangerous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\services\\question\\topquestionincorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\services\\question\\topquestionincorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\services\\examservice\\exambyquestioncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\services\\examservice\\exambyquestioncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\services\\question\\getallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\services\\question\\getallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\services\\question\\getquestioncompletednotcorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\services\\question\\getquestioncompletednotcorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\dtos\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\dtos\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\dtos\\response\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\dtos\\response\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\dtos\\response\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\dtos\\response\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\entities\\examhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\entities\\examhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\entities\\examquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\entities\\examquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\data\\seed\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\data\\seed\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\entities\\questioncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\entities\\questioncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|c:\\users\\troll\\desktop\\be100\\be100\\dependencyinjection\\authdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB00827-8EBE-490C-DDC3-55487D0AD30E}|BE100\\BE100.csproj|solutionrelative:be100\\dependencyinjection\\authdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\ExamController\\ExamHistoryController.cs",
+              "RelativeDocumentMoniker": "BE100\\Controllers\\ExamController\\ExamHistoryController.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\ExamController\\ExamHistoryController.cs",
+              "RelativeToolTip": "BE100\\Controllers\\ExamController\\ExamHistoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:30:51.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandoomQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\ExamController\\RandoomQuestion.cs",
+              "RelativeDocumentMoniker": "BE100\\Controllers\\ExamController\\RandoomQuestion.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\ExamController\\RandoomQuestion.cs",
+              "RelativeToolTip": "BE100\\Controllers\\ExamController\\RandoomQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:52:57.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\QuestionController\\AllQuestion.cs",
+              "RelativeDocumentMoniker": "BE100\\Controllers\\QuestionController\\AllQuestion.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\QuestionController\\AllQuestion.cs",
+              "RelativeToolTip": "BE100\\Controllers\\QuestionController\\AllQuestion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T22:24:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExambyQuestiopnCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\ExamController\\ExambyQuestiopnCategoryController.cs",
+              "RelativeDocumentMoniker": "BE100\\Controllers\\ExamController\\ExambyQuestiopnCategoryController.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\ExamController\\ExambyQuestiopnCategoryController.cs",
+              "RelativeToolTip": "BE100\\Controllers\\ExamController\\ExambyQuestiopnCategoryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:41:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Program.cs",
+              "RelativeDocumentMoniker": "BE100\\Program.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Program.cs",
+              "RelativeToolTip": "BE100\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:21:32.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestionDangerusController .cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\QuestionController\\QuestionDangerusController .cs",
+              "RelativeDocumentMoniker": "BE100\\Controllers\\QuestionController\\QuestionDangerusController .cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\QuestionController\\QuestionDangerusController .cs",
+              "RelativeToolTip": "BE100\\Controllers\\QuestionController\\QuestionDangerusController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T22:28:29.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RandoomExam.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\ExamService\\RandoomExam.cs",
+              "RelativeDocumentMoniker": "BE100\\Services\\ExamService\\RandoomExam.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\ExamService\\RandoomExam.cs",
+              "RelativeToolTip": "BE100\\Services\\ExamService\\RandoomExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:04:23.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseDependency.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DependencyInjection\\DatabaseDependency.cs",
+              "RelativeDocumentMoniker": "BE100\\DependencyInjection\\DatabaseDependency.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DependencyInjection\\DatabaseDependency.cs",
+              "RelativeToolTip": "BE100\\DependencyInjection\\DatabaseDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:21:47.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceDependency.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DependencyInjection\\ServiceDependency.cs",
+              "RelativeDocumentMoniker": "BE100\\DependencyInjection\\ServiceDependency.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DependencyInjection\\ServiceDependency.cs",
+              "RelativeToolTip": "BE100\\DependencyInjection\\ServiceDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:21:50.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListQuestionDangerous.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\Question\\ListQuestionDangerous.cs",
+              "RelativeDocumentMoniker": "BE100\\Services\\Question\\ListQuestionDangerous.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\Question\\ListQuestionDangerous.cs",
+              "RelativeToolTip": "BE100\\Services\\Question\\ListQuestionDangerous.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:32:34.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TopQuestionInCorrect.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\Question\\TopQuestionInCorrect.cs",
+              "RelativeDocumentMoniker": "BE100\\Services\\Question\\TopQuestionInCorrect.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\Question\\TopQuestionInCorrect.cs",
+              "RelativeToolTip": "BE100\\Services\\Question\\TopQuestionInCorrect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:32:38.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExambyQuestionCategory.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\ExamService\\ExambyQuestionCategory.cs",
+              "RelativeDocumentMoniker": "BE100\\Services\\ExamService\\ExambyQuestionCategory.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\ExamService\\ExambyQuestionCategory.cs",
+              "RelativeToolTip": "BE100\\Services\\ExamService\\ExambyQuestionCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:04:25.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\Question\\GetAllQuestion.cs",
+              "RelativeDocumentMoniker": "BE100\\Services\\Question\\GetAllQuestion.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\Question\\GetAllQuestion.cs",
+              "RelativeToolTip": "BE100\\Services\\Question\\GetAllQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:04:27.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetQuestionCompletedNotCorrect.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\Question\\GetQuestionCompletedNotCorrect.cs",
+              "RelativeDocumentMoniker": "BE100\\Services\\Question\\GetQuestionCompletedNotCorrect.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\Question\\GetQuestionCompletedNotCorrect.cs",
+              "RelativeToolTip": "BE100\\Services\\Question\\GetQuestionCompletedNotCorrect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:04:29.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BE100\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BE100\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T22:24:36.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DTOs\\Response\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "BE100\\DTOs\\Response\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DTOs\\Response\\LoginResponse.cs",
+              "RelativeToolTip": "BE100\\DTOs\\Response\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T22:20:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuestionDto.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DTOs\\Response\\QuestionDto.cs",
+              "RelativeDocumentMoniker": "BE100\\DTOs\\Response\\QuestionDto.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DTOs\\Response\\QuestionDto.cs",
+              "RelativeToolTip": "BE100\\DTOs\\Response\\QuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T22:11:22.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AnswerDto.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DTOs\\Response\\AnswerDto.cs",
+              "RelativeDocumentMoniker": "BE100\\DTOs\\Response\\AnswerDto.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DTOs\\Response\\AnswerDto.cs",
+              "RelativeToolTip": "BE100\\DTOs\\Response\\AnswerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:03:06.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExamHistory.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Entities\\ExamHistory.cs",
+              "RelativeDocumentMoniker": "BE100\\Entities\\ExamHistory.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Entities\\ExamHistory.cs",
+              "RelativeToolTip": "BE100\\Entities\\ExamHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T22:07:04.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExamQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Entities\\ExamQuestion.cs",
+              "RelativeDocumentMoniker": "BE100\\Entities\\ExamQuestion.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Entities\\ExamQuestion.cs",
+              "RelativeToolTip": "BE100\\Entities\\ExamQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T22:07:06.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Data\\Seed\\SeedData.cs",
+              "RelativeDocumentMoniker": "BE100\\Data\\Seed\\SeedData.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Data\\Seed\\SeedData.cs",
+              "RelativeToolTip": "BE100\\Data\\Seed\\SeedData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:17:18.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "BE100\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\TokenService.cs",
+              "RelativeToolTip": "BE100\\Services\\TokenService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:39:22.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuestionCategory.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Entities\\QuestionCategory.cs",
+              "RelativeDocumentMoniker": "BE100\\Entities\\QuestionCategory.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Entities\\QuestionCategory.cs",
+              "RelativeToolTip": "BE100\\Entities\\QuestionCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:43:54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BE100\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\Services\\AuthService.cs",
+              "RelativeToolTip": "BE100\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:39:18.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthDependency.cs",
+              "DocumentMoniker": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DependencyInjection\\AuthDependency.cs",
+              "RelativeDocumentMoniker": "BE100\\DependencyInjection\\AuthDependency.cs",
+              "ToolTip": "C:\\Users\\troll\\Desktop\\BE100\\BE100\\DependencyInjection\\AuthDependency.cs",
+              "RelativeToolTip": "BE100\\DependencyInjection\\AuthDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:21:42.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
